@@ -1,4 +1,4 @@
-# mcs-takeover
+#MCS Takeover: Rise of the Robots
 Top-down combat RPG game where the player must kill AI robots that have taken over the Durham University computer lab as part of research gone wrong.
 
 ## Story
