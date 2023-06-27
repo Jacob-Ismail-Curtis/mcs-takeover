@@ -7,3 +7,7 @@ You are CS student saving the MCS building from AI robots that have gained consc
 ## How to run
 
 To run the game, ensure pygame is installed and run main.py. Main game loop is contained in game.py file.
+
+## Demo
+
+https://drive.google.com/file/d/1NheducKmMs_sasYtFZeEHIF_t6gHCtEs/view?usp=drive_link
